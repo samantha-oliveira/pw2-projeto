@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "expess": "^0.0.1-security"
+  },
+  "name": "atividadepw2",
+  "version": "1.0.0",
+  "description": "loja de chocolate",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samantha de Oliveira",
+  "license": "ISC"
+}
